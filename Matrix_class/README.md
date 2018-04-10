@@ -1,6 +1,6 @@
 # Matrix class
 ---
-* Problem definition
+**Problem definition**
 
 The goal of this homework is to let you get familiar with C++ programming, especially in the use of classes and their operations. In particular, you need to implement a Matrix clss that supports basic matrix operations. The followings are the required member functions & variables.
 
@@ -34,18 +34,18 @@ The goal of this homework is to let you get familiar with C++ programming, espec
 	* print()
 
 
-Here are detailed descriptions about the above functions.
+**Here are detailed descriptions about the above functions.**
 
-	* read(filename): Read a matrix from file 
-	  Input file format:
-		* The first line of the input contains two integers, m (no. of row of the matrix) and n (no. of column of the matrix), with 1≤n, m≤100000.
-		* Each of the following m lines contains n integers separated by a single space, a1, a2, ..., an, representing each row of the matrix.
-	* write(filename): Write the matrix to the given file name, with the same format mentioned previously in read(filename).
-	* print(): Print the matrix to stdout, with each element separate by a single space and each row separate with a newline.
-	* Operator /: For matrices A and B, A/B is defined as A∗B−1. You can safely assume B−1 always exists.
+* read(filename): Read a matrix from file 
+  Input file format:
+	* The first line of the input contains two integers, m (no. of row of the matrix) and n (no. of column of the matrix), with 1≤n, m≤100000.
+	* Each of the following m lines contains n integers separated by a single space, a1, a2, ..., an, representing each row of the matrix.
+* write(filename): Write the matrix to the given file name, with the same format mentioned previously in read(filename).
+* print(): Print the matrix to stdout, with each element separate by a single space and each row separate with a newline.
+* Operator /: For matrices A and B, A/B is defined as A∗B−1. You can safely assume B−1 always exists.
 
 
-* Requirements & suggestions
+**Requirements & suggestions**
 
 * You can search Google using terms like "matrix class c++ example" to obtain similiar code for this homework, and work from there to have a jump start. (But remember you cannot change matrix.h, so you function prototypes must conform to those in the header file.)
 * More info:
