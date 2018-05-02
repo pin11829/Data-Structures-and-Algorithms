@@ -15,32 +15,32 @@ Please output the final vector (from left to right).
 
 More details:
 
-  *Input format:
-    *Line 1 is an integer n, the length of the vector.
-    *Line 2 contains nintegers of the vector's elements.
+* Input format:
+  * Line 1 is an integer n, the length of the vector.
+  * Line 2 contains nintegers of the vector's elements.
 
-  *Output format: The output is a single line containing the final vector, with neighboring elements separated by a single space. In particular, if the result is an empty vector, please print "Meow" (without double quotes) instead.
+  * Output format: The output is a single line containing the final vector, with neighboring elements separated by a single space. In particular, if the result is an empty vector, please print "Meow" (without double quotes) instead.
 
-  *Ranges of variables:
-    *1 ≤ n≤ 106
-    *1≤ai ≤106,∀i.
+  * Ranges of variables:
+    * 1 ≤ n≤ 106
+    * 1≤ai ≤106,∀i.
 
-  *Example test cases:
+  * Example test cases:
     1. Case 1:
-      *Sample input:
+      * Sample input:
         2 11
-      *Sample output:
+      * Sample output:
         Meow
     2. Case 2:
-      *Sample input:
+      * Sample input:
         4 1123
-      *Sample output:
+      * Sample output:
         23
 
-  *Subtask descriptions:
-    *n= 1==>2pts
-    *n= 2==>2pts
-    *n= 3==>4pts
-    *a1 = a2 = ⋯= an==>2pts
-    *1≤n≤103 ==>10pts
-    *1≤n≤106 ==>10pts
+  * Subtask descriptions:
+    * n= 1==>2pts
+    * n= 2==>2pts
+    * n= 3==>4pts
+    * a1 = a2 = ⋯= an==>2pts
+    * 1≤n≤103 ==>10pts
+    * 1≤n≤106 ==>10pts
