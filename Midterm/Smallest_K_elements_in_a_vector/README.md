@@ -20,14 +20,21 @@ More details:
   * K ≤ N ≤ 106 .
 
 * Example test case: Sample input
+
   2
+
   53
+
   -3 -1 0 7 9
+
   10 3
+
   32 89 0 12 -11 32 -5 -11 91 7
 
 * Sample output:
+
   0 -1 -3
+
   -5 -11 -11
 
 * Subtask descriptions

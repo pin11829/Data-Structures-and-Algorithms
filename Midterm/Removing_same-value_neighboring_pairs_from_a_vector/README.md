@@ -28,14 +28,21 @@ More details:
   * Example test cases:
     1. Case 1:
       * Sample input:
-        2 11
+
+        2
+
+        1 1
       * Sample output:
         Meow
     2. Case 2:
       * Sample input:
-        4 1123
+
+        4
+
+        1 1 2 3
       * Sample output:
-        23
+
+        2 3
 
   * Subtask descriptions:
     * n= 1==>2pts
