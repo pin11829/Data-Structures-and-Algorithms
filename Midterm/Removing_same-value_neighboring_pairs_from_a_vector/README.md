@@ -1,4 +1,4 @@
-# Removing_same-value_neighboring_pairs_from_a_vector
+# Removing same-value neighboring pairs from a vector
 ------
 
 (30 pts) **Removing same-value neighboring pairs from a vector:**

@@ -1,4 +1,4 @@
-# Median_of_pairs_from_a_vector
+# Median of pairs from a vector
 ------
 
 (40 pts) **Median of pairs from a vector**:
