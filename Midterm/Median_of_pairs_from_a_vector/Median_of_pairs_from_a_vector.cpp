@@ -18,7 +18,7 @@ int main(){
     cin.tie(0);
     long long int ID, n;
     data temp_input;
-    int count, middle = 0;
+    int middle, count = 0;
     vector<Data> vec, b;
     vector<Data*> b1;
     while(cin>>ID){

@@ -83,7 +83,7 @@ int main(int argc, char *argv[]){
   stable_sort(vec1.begin(), vec1.end(), cmp);
   stable_sort(vec2.begin(), vec2.end(), cmp1);
 
-  float flmax, flmin= 0.0000;
+  float flmax, flmin;
   long long int cap = 0;
   string type;
   data data_q, data_p, data_c;
