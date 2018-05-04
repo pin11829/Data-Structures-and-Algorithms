@@ -4,14 +4,12 @@
 Using alpha-beta pruning to achieve the Subtasks.
 
 ### Training data
----
 
 Line1 : number of games
 
 Others : 5*5 ooxx games
 
 ### How to start
----
 
 1.g++ -std=c++11 hw3.cpp
 
