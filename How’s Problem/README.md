@@ -41,54 +41,54 @@ For example, suppose that initially, S = ”cd” and Q = 5. Five sequentially l
 * Subtasks
 	* All subtasks may be satisfied by the following conditions:
 	
-	All characters are English alphabet lower-case characters
+		All characters are English alphabet lower-case characters
 	
-	1 ≤ initial length of string S ≤ 105
+		1 ≤ initial length of string S ≤ 105
 	
-	1 ≤ Q ≤ 105 
+		1 ≤ Q ≤ 105 
 	
-	0 ≤ the sum of lengths of all strings Ti ≤ 105
+		0 ≤ the sum of lengths of all strings Ti ≤ 105
 
 	* Subtask 1 (5 pt):
 	
-	1 ≤ the initial length of string S ≤ 105
+		1 ≤ the initial length of string S ≤ 105
 	
-	Q = 1
+		Q = 1
 	
-	All questions are in the 3rd form
+		All questions are in the 3rd form
 
 	* Subtask 2 (5 pt):
 	
-	1 ≤ the initial length of string S ≤ 1000
+		1 ≤ the initial length of string S ≤ 1000
 	
-	1 ≤ Q ≤ 1000
+		1 ≤ Q ≤ 1000
 	
-	0 ≤ the sum of lengths of all strings Ti ≤ 104
+		0 ≤ the sum of lengths of all strings Ti ≤ 104
 
 	* Subtask 3 (30 pt):
 	
-	1 ≤ the initial length of string S ≤ 105 
+		1 ≤ the initial length of string S ≤ 105 
 	
-	1 ≤ Q ≤ 105 
+		1 ≤ Q ≤ 105 
 	
-	The length of all strings Ti ≥ 104 
+		The length of all strings Ti ≥ 104 
 	
-	0 ≤ the sum of lengths of all strings Ti ≤ 105
+		0 ≤ the sum of lengths of all strings Ti ≤ 105
 
 	* Subtask 4 (30 pt):
 	
-	1 ≤ the initial length of string S ≤ 105 
+		1 ≤ the initial length of string S ≤ 105 
 	
-	1 ≤ Q ≤ 105 
+		1 ≤ Q ≤ 105 
 	
-	1 ≤ The length of all strings Ti ≤ 10 
+		1 ≤ The length of all strings Ti ≤ 10 
 	
-	0 ≤ the sum of lengths of all strings Ti ≤ 105
+		0 ≤ the sum of lengths of all strings Ti ≤ 105
 	
 	* Subtask 5 (30 pt):
 	
-	Original conditions (without optimization)
+		Original conditions (without optimization)
 	
-	1 ≤ the initial length of string S ≤ 105
+		1 ≤ the initial length of string S ≤ 105
 	
-	0 ≤ the sum of lengths of all strings Ti ≤ 105
+		0 ≤ the sum of lengths of all strings Ti ≤ 105
