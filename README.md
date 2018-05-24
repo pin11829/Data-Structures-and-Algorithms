@@ -8,5 +8,5 @@
 	g++ -std=c++11 hwno.cpp
 	./a.out < test.txt > res.txt
 
-## Detail of the DSA program
+## Details of the DSA class
   * https://pin11829.gitbooks.io/data-structure-and-algorithms-ntu-roger-s-class/content/
